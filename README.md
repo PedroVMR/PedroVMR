@@ -8,9 +8,6 @@
     <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroVMR&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
     <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVMR&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </div> 
-  <br>
-  <br>
-  
   <div style="display: inline_block">
     <p align="center">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
