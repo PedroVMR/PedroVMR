@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCZ1Wf8FfPWuZbhOI__heEUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -22,6 +22,6 @@
   <a href = "mailto:pedrovmreis04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-reis-559456266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PedroVMR/PedroVMR/blob/output/github-contribution-grid-snake.svg)
 
 </div>
