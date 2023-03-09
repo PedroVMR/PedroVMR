@@ -1,4 +1,4 @@
-## Oi, eu sou o Pedro! 😁
+## Oi, eu sou o Pedro! 😎
 
  <div>
    <a href="https://github.com/PedroVMR">
