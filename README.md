@@ -1,5 +1,4 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6800fa&height=120&section=header"/>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro;I'm+from+Brazil;Be+Welcome!+ツ)
 
@@ -34,9 +33,5 @@
     </a>
   </p>
 </div>
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6800fa&height=120&section=footer"/>
-</a>
 
 ![Snake animation](https://github.com/PedroVMR/PedroVMR/blob/output/github-contribution-grid-snake.svg)
