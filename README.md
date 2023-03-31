@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9fef7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro;I'm+from+Brazil;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2200ff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro;I'm+from+Brazil;Be+Welcome!+ツ)
 
   <div align="center">
     <br>
-   <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroVMR&show_icons=true&theme=radical"/>
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVMR&layout=compact&theme=radical"/>
+   <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroVMR&show_icons=true&theme=transparent"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVMR&layout=compact&theme=transparent"/>
   </div> 
     
   <br>
