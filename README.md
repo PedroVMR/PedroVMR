@@ -11,13 +11,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
 Sou desenvolvedor de software e estudante de **Ciência da Computação**, com interesse em **desenvolvimento web, jogos e experiências interativas**.
 
 Gosto de transformar ideias em produtos utilizáveis, unindo programação, design de interfaces e soluções para problemas reais. Uma das áreas que mais gosto de explorar é a criação de ferramentas digitais para comunidades criativas, especialmente RPGs.
 
-## 🚀 Projetos autorais
+## 🚀 Projetos Autorais
 
 | Projeto | Descrição |
 | :--- | :--- |
