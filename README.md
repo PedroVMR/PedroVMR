@@ -4,8 +4,6 @@
 
 **Software Developer • Creative Tools • Interactive Experiences**
 
-Desenvolvo aplicações web, ferramentas interativas e projetos que aproximam tecnologia e criatividade.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pedro-reis-559456266/)
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/PedroVMR)
 
@@ -29,7 +27,7 @@ Gosto de transformar ideias em produtos utilizáveis, unindo programação, desi
 
 <sub>Projetos pessoais em desenvolvimento. Alguns ainda não possuem repositórios públicos.</sub>
 
-## 🧩 Repositórios públicos
+## 🧩 Repositórios Públicos
 
 | Repositório | Tecnologias | Descrição |
 | :--- | :--- | :--- |
@@ -58,7 +56,5 @@ Gosto de transformar ideias em produtos utilizáveis, unindo programação, desi
 <div align="center">
 
 **Code. Create. Imagine.** 💜
-
-<sub>Construindo mundos, uma linha de código por vez.</sub>
 
 </div>
